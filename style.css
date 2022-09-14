@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  box-sizing: border-box;
+  vertical-align: baseline;
+}
+
+body {
+  /* padding: 5% 12.5%; */
+  background-color: #ffebad;
+  text-align: center;
+}
+header {
+  background-color: #fff6bf;
+}
+h1 {
+  font-size: 35px;
+  padding-top: 10px;
+}
+h2 {
+  font-size: 25px;
+  margin: 10px 0;
+  text-align: center;
+}
+h3 {
+  padding-bottom: 5%;
+}
+
+p,
+li {
+  margin-bottom: 20px;
+  line-height: 2rem;
+}
+li {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5%;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+#list {
+  display: inline-block;
+}
+section {
+  padding: 10% 12.5%;
+  font-size: 20px;
+  text-align: justify;
+}
+#history-section {
+  background-color: #f9e29c;
+}
+#food-section {
+  background-color: #ecd694;
+}
+.text-center {
+  text-align: center;
+}
+.py-10 {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
